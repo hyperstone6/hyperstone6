@@ -95,6 +95,44 @@ See [my website](https://adrian-portfolio-phi.vercel.app) for more information!
         <p><strong>React Native, TypeScript</strong> - Choose a number between 1 and 10,000 and keep the app guessing. The one with the least number of guesses is the true hero!</p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Digital E-Commerce Site</h3>
+      <br />
+        <a style="display: flex; justify-content: center" target="_blank" href="https://digital-agency-henna.vercel.app/">
+          <img src="images/digitalsite_demo.gif" style="max-height: 350px" alt="Meals App"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/hyperstone6/Digital-Agency" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://digital-agency-henna.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript</strong> - A modern, fully responsive, multi-purpose website with animated icons, a perpetual slider, and an image gallery with animation effects upon mouse hover. The site can be quickly repurposed and scaled to almost any type of small e-commerce business.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Music Sampler</h3>
+        <br />
+        <a style="display: flex; justify-content: center" target="_blank" href="https://music-sampler.vercel.app/">
+          <img src="images/musicsampler_demo.gif" style="max-height: 350px" alt="Music Sampler"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/hyperstone6/Music-Sampler-Web-App" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://music-sampler.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript, Axios</strong> - Search for any song in Shazam's database and get up to 5 clips of 1 minute and 30 second samples. The app contains play/pause, previous/next features, volume rocker, repeat, mute, progress bar and seeker. </p>
+    </td>
+  </tr>
 </table>
 
 <h1 align="center">Technologies</h1>
